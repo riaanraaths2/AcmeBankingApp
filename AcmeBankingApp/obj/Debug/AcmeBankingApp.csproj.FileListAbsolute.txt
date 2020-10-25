@@ -1,0 +1,12 @@
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\bin\Debug\AcmeBankingApp.exe.config
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\bin\Debug\AcmeBankingApp.exe
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\bin\Debug\AcmeBankingApp.pdb
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.csprojAssemblyReference.cache
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.Form1.resources
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.Properties.Resources.resources
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.csproj.GenerateResource.cache
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.exe
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.pdb
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.frmSavingsAccount.resources
+C:\Users\christor\source\repos\AcmeBankingApp\AcmeBankingApp\obj\Debug\AcmeBankingApp.frmCurrentAccount.resources

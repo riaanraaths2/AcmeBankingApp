@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeBankingApp", "AcmeBankingApp\AcmeBankingApp.csproj", "{CEF671F8-2D1D-4577-BA4C-16990906BA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF671F8-2D1D-4577-BA4C-16990906BA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF671F8-2D1D-4577-BA4C-16990906BA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF671F8-2D1D-4577-BA4C-16990906BA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF671F8-2D1D-4577-BA4C-16990906BA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D53128-2F89-419C-93C0-C72F1AC0655A}
+	EndGlobalSection
+EndGlobal
